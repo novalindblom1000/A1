@@ -20,7 +20,7 @@ let aiScore = 0; // AI score variable
 
 
 
-
+//Cookies Data
 tryLoadGame();
 updateAiScore();
 updatePlayerScore();
